@@ -1,2 +1,4 @@
-# kuih-crush-game
-Kuih Crush - PWA Match-3
+# Kuih Crush 🍪
+Live: https://happibeli.github.io/kuih-crush-game
+
+Built with React & Gemini API.
